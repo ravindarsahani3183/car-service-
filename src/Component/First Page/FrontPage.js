@@ -6,7 +6,6 @@ const FrontPage = () => {
   return (
     <div>
         <img src={service_icon} alt=''></img>
-        <img src={Wash_icon} alt=''></img>
         <img src={Booking_icon} alt=''></img>
     </div>
   )
