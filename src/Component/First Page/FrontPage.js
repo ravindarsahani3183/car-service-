@@ -6,8 +6,8 @@ const FrontPage = () => {
   return (
     <div className="front-img">
         <img src={service_icon} className="service-img" alt=''></img>
-        <img src={Wash_icon} className="service-img" alt=''></img>
-        <img src={Booking_icon} className="service-img" alt=''></img>
+        <img src={Wash_icon} className="wash-img" alt=''></img>
+        <img src={Booking_icon} className="booking-img" alt=''></img>
     </div>
   )
 }
