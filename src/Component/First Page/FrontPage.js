@@ -8,9 +8,9 @@ const FrontPage = () => {
         <img src={service_icon} className="service-img" alt=''></img>
         <img src={Wash_icon} className="wash-img" alt=''></img>
         <img src={Booking_icon} className="booking-img" alt=''></img>
-        <img src={Booking_icon} className="booking-img" alt=''></img>
     </div>
   )
 }
+
 
 export default FrontPage
