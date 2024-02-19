@@ -1,0 +1,15 @@
+.navbar{
+    background-color: aqua;
+    height: 50px;
+}
+.nav{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    padding-top: 13px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.nav-item:hover{
+    color: red;
+}
