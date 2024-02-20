@@ -4,11 +4,15 @@
 }
 .nav{
     display: flex;
-    gap: 100px;
-    justify-content: center;
+    justify-content: space-between;
     padding-top: 13px;
-    font-size: 18px;
-    cursor: pointer;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.nav-element{
+    display: flex;
+    gap: 80px;
+    
 }
 .nav-item:hover{
     color: red;

@@ -3,13 +3,19 @@ import "./Navbar.css"
 const Navbar = () => {
   return (
     <div className='navbar'>
-        <div className='nav'>
+      <div className='nav'>
+      <div className='brand'>car</div>
+        <div className='nav-element'>
             <div className='nav-item'>Home</div>
             <div className='nav-item'>Service</div>
             <div className='nav-item'>Rent</div>
             <div className='nav-item'>Auction</div>
             <div className='nav-item'>About</div>
         </div>
+        <div>
+          <input type='search' placeholder='search'></input>
+        </div>
+      </div>
     </div>
   )
 }
