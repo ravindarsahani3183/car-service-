@@ -5,7 +5,7 @@
 .nav{
     display: flex;
     justify-content: space-between;
-    padding-top: 13px;
+    padding-top: 10px;
     padding-left: 100px;
     padding-right: 100px;
 }
@@ -16,4 +16,13 @@
 }
 .nav-item:hover{
     color: red;
+}
+.sign-up{
+    padding: 7px 20px;
+    background-color: rgb(214, 22, 176);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
 }
