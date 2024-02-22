@@ -1,15 +1,31 @@
-.front-img{
+.car-title{
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 10px;
+}
+.car-name{
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.car-button{
     display: flex;
+    justify-content: center;
+    gap: 20px;
 }
-.service-img{
-    width: 500px;
-    height: 600px;
+.detail-button{
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
 }
-.wash-img{
-    width: 500px;
-    height: 600px;
+.test-buuton{
+    border: none;
+    border-radius: 5px;
+    padding: 12px;  
+    background-color: blue;
+    color: white;
 }
-.booking-img{
-    width: 500px;
-    height: 400px;
+.car-img{
+    height: 330px;
+    width: 600px;
 }

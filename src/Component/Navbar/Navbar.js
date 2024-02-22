@@ -1,10 +1,11 @@
 import React from 'react'
 import "./Navbar.css"
+import { FaCar } from "react-icons/fa";
 const Navbar = () => {
   return (
     <div className='navbar'>
       <div className='nav'>
-      <div className='brand'>car</div>
+      <div className='brand'><FaCar className='brand-icon'/></div>
         <div className='nav-element'>
             <div className='nav-item'>Home</div>
             <div className='nav-item'>Service</div>
