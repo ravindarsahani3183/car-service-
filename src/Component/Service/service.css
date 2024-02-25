@@ -1,0 +1,44 @@
+.service{
+    display: flex;
+    margin-top: 50px;
+}
+.service-title{
+    color: red;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.service-img{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.service-para{
+    margin-top: 20px;
+}
+.service-car{
+    width: 450px;
+    height: 400px;
+}
+.service-text{
+    text-align: left;
+    padding-left: 30px;
+    line-height: 10px;
+}
+.service-text1{
+    text-align: left;
+    padding-left: 30px;
+}
+.service-button{
+    display: flex;
+    align-items: start;
+    margin-left: 30px;
+    background-color: rgb(61, 126, 248);
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: 500;
+    margin-top: 30px;
+}
