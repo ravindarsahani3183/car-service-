@@ -32,6 +32,9 @@ const Service = () => {
             own.
             </p>
             <button onclick="service_explore()" className='service-button'>Explore More</button>
+            <div className='service-element'>
+
+            </div>
         </div>
         </div>
     </div>
