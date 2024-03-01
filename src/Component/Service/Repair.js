@@ -23,13 +23,7 @@ const Repair = () => {
                     <span>Offer: 20%</span>
                     <button>more detail</button>
                 </div>
-                <div className='repair-card'>
-                <h4>Preventive Maintenance Service</h4>
-                    <img src={nexon_icon} className="car-img" alt=''></img>
-                    <p>Periodically check and keep your car running.</p>
-                    <span>Offer: 20%</span>
-                    <button>more detail</button>
-                </div>
+                
             </div>
         </div>
     </div>
