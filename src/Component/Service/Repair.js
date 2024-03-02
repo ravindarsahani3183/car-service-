@@ -1,5 +1,5 @@
 import React from 'react'
-import nexon_icon from "../img/nexon.jpeg";
+import service1_icon from "../img/service1.jpg";
 import "./repair.css";
 const Repair = () => {
   return (
@@ -11,19 +11,25 @@ const Repair = () => {
             <div className='repair'>
                 <div className='repair-card'>
                     <h4>Preventive Maintenance Service</h4>
-                    <img src={nexon_icon} className="car-img" alt=''></img>
+                    <img src={service1_icon} className="car-img" alt=''></img>
                     <p>Periodically check and keep your car running.</p>
                     <span>Offer: 20%</span>
                     <button>more detail</button>
                 </div>
                 <div className='repair-card'>
                 <h4>Preventive Maintenance Service</h4>
-                    <img src={nexon_icon} className="car-img" alt=''></img>
+                    <img src={service1_icon} className="car-img" alt=''></img>
                     <p>Periodically check and keep your car running.</p>
                     <span>Offer: 20%</span>
                     <button>more detail</button>
                 </div>
-                
+                <div className='repair-card'>
+                <h4>Preventive Maintenance Service</h4>
+                    <img src={service1_icon} className="car-img" alt=''></img>
+                    <p>Periodically check and keep your car running.</p>
+                    <span>Offer: 20%</span>
+                    <button>more detail</button>
+                </div>
             </div>
         </div>
     </div>
