@@ -1,5 +1,7 @@
 import React from 'react'
-import service1_icon from "../img/service1.jpg";
+import wash_icon from "../img/wash.jpg";
+import service3_icon from "../img/service3.jpg";
+import repair_icon from "../img/repair.jpg";
 import "./repair.css";
 const Repair = () => {
   return (
@@ -11,21 +13,21 @@ const Repair = () => {
             <div className='repair'>
                 <div className='repair-card'>
                     <h4>Preventive Maintenance Service</h4>
-                    <img src={service1_icon} className="car-img" alt=''></img>
+                    <img src={wash_icon} className="car-img" alt=''></img>
                     <p>Periodically check and keep your car running.</p>
                     <span>Offer: 20%</span>
                     <button>more detail</button>
                 </div>
                 <div className='repair-card'>
                 <h4>Preventive Maintenance Service</h4>
-                    <img src={service1_icon} className="car-img" alt=''></img>
+                    <img src={service3_icon} className="car-img" alt=''></img>
                     <p>Periodically check and keep your car running.</p>
                     <span>Offer: 20%</span>
                     <button>more detail</button>
                 </div>
                 <div className='repair-card'>
                 <h4>Preventive Maintenance Service</h4>
-                    <img src={service1_icon} className="car-img" alt=''></img>
+                    <img src={repair_icon} className="car-img" alt=''></img>
                     <p>Periodically check and keep your car running.</p>
                     <span>Offer: 20%</span>
                     <button>more detail</button>
