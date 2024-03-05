@@ -34,6 +34,9 @@ const Repair = () => {
                 </div>
             </div>
         </div>
+        <div className='repair-board'>
+
+        </div>
     </div>
   )
 }
