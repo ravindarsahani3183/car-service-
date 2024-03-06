@@ -9,6 +9,7 @@ const Navbar = () => {
         <div className='nav-element'>
             <div className='nav-item'>Home</div>
             <div className='nav-item'>Service</div>
+            <div className='nav-item'>Sale</div>
             <div className='nav-item'>Rent</div>
             <div className='nav-item'>Auction</div>
             <div className='nav-item'>About</div>
