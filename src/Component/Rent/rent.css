@@ -1,5 +1,11 @@
-.rent{
-    background-color: black;
+
+.card{
     width: 400px;
-    height: 400px;
+    height: 300px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+.product-container{
+    display: flex;
+    overflow: hidden;
 }

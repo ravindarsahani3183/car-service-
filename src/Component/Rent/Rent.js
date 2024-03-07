@@ -4,7 +4,22 @@ const Rent = () => {
   return (
     <div className='rent'>
         <div>
-        
+            
+
+            <div className='product-container'>
+                <div className='card'></div>
+                <div className='card'></div>
+                <div className='card'></div>
+                <div className='card'></div>
+                <div className='card'></div>
+                <div className='card'></div>
+                <div className='card'></div>
+                <div className='card'></div>
+                <div className='card'></div>
+                <div className='card'></div>
+                <div className='card'></div>
+                <div className='card'></div>
+            </div>
         </div>
     </div>
   )
