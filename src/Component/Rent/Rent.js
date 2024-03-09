@@ -35,13 +35,6 @@ const Rent = () => {
       <Carousel responsive={responsive}>
         <div className='rent-card'>
           <img src={ford} className="rent-img" alt=''></img>
-          <div>
-            <span></span>
-            <span></span>
-          </div>
-          <h3>Nissan</h3>
-          <p>30000</p>
-          <p>mumbai</p>
         </div>
         <div className='rent-card'>
           <img src={mazda} className="rent-img" alt=''></img>
