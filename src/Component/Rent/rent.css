@@ -1,11 +1,15 @@
-
-.card{
-    width: 400px;
-    height: 300px;
-    background-color: aqua;
-    border: 1px solid black;
+.rent-title{
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 24px;
 }
-.product-container{
-    display: flex;
-    overflow: hidden;
+.rent-img{
+ width: 414px;
+ height: 212px;
+ border-radius: 5px;
+}
+.rent-slider{
+    margin-left: 18px;
+    margin-right: 18px;
 }
