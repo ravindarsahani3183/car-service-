@@ -48,9 +48,6 @@ const Rent = () => {
         <div className='rent-card'>
           <img src={nissan} className="rent-img" alt=''></img>
         </div>
-        <div className='rent-card'>
-          <img src={nissan} className="rent-img" alt=''></img>
-        </div>
       </Carousel>
       </div>
     </div>
