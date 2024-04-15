@@ -1,4 +1,5 @@
 import './App.css';
+import Auction from './Component/Auction/Auction';
 import FrontPage from './Component/First Page/FrontPage';
 import Navbar from './Component/Navbar/Navbar';
 import Rent from './Component/Rent/Rent';
@@ -15,6 +16,7 @@ function App() {
       <Service></Service>
       <Repair></Repair>
       <Rent></Rent>
+      <Auction></Auction>
     </div>
   );
 }
