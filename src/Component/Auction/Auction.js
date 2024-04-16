@@ -2,7 +2,9 @@ import React from 'react'
 import "./auction.css"
 const Auction = () => {
   return (
-    <div>Auction</div>
+    <div>
+      <div className='auction'>Auction</div>
+    </div>
   )
 }
 
