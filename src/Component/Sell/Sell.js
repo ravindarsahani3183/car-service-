@@ -20,11 +20,6 @@ const Sell = () => {
         <div>
         </div>
       </div>
-      <div>
-        <h2>Popular car body types</h2>
-        <div>
-        </div>
-      </div>
     </div>
   )
 }
