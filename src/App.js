@@ -7,6 +7,7 @@ import Search from './Component/Search/Search';
 import Sell from './Component/Sell/Sell';
 import Repair from './Component/Service/Repair';
 import Service from './Component/Service/Service';
+import About from './Component/About/About';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Repair></Repair>
       <Rent></Rent>
       <Auction></Auction>
+      <About></About>
     </div>
   );
 }
